@@ -39,22 +39,20 @@ export const features = [
     id: "feature-1",
     icon: star,
     title: "Rewards",
-    content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+    content: "SiGo provides the best security systems in Europa.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "3 Months Trial Period",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "100% Money back garantee, if you're not satisfied after 3 months of using SiGo.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
-    content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+    title: "Easy Upgradable Offers",
+    content: "SiGo grows with you and your needs.",
   },
 ];
 
@@ -88,18 +86,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Secure Homes",
+    value: "5600+",
   },
   {
     id: "stats-2",
     title: "Trusted by Company",
-    value: "230+",
+    value: "1300+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Solved Problems",
+    value: "230M+",
   },
 ];
 

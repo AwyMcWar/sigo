@@ -29,7 +29,7 @@ const Hero = () => (
     </div>
     {/*right side*/}
     <div>
-      <img src={hands} alt="robot" clasName=" w-[100%] h-[100%] z-[5] " />
+      <img src={hands} alt="robot" className=" w-[100%] h-[100%] z-[5] " />
       <div className="absolute z-[0] w-[40%] h-[35%] top-0 darker__gradient" />
       <div />
       <div />
