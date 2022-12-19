@@ -6,7 +6,7 @@ import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./LogoSiGo.png";
 import quotes from "./quotes.svg";
-import robot from "./robot.png";
+import robot from "./Robot and secure.jpg";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
@@ -23,8 +23,11 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
-
+import hands from "./hands.png";
+import security from "./security.png";
 export {
+  hands,
+  security,
   airbnb,
   bill,
   binance,

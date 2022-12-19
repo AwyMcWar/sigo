@@ -68,7 +68,7 @@
   background: linear-gradient(
     153.47deg,
     rgba(255, 255, 255, 0) -341.94%,
-    #14101d 95.11%
+    #11101d 95.11%
   );
 }
 
@@ -129,12 +129,16 @@
   filter: blur(123px);
 }
 
-.pink__gradient {
-  background: linear-gradient(90deg, #f4c4f3 0%, #fc67fa 100%);
+.darker__gradient {
+  background: linear-gradient(180deg, #d8dbf8 5%, #060811 5%);
   filter: blur(900px);
 }
 
 .white__gradient {
-  background: rgba(255, 255, 255, 0.6);
+  background: linear-gradient(
+    50deg,
+    rgba(24, 125, 153, 0.6),
+    rgb(17, 16, 29, 1)
+  );
   filter: blur(750px);
 }
