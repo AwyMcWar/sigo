@@ -45,14 +45,13 @@ export const features = [
     id: "feature-2",
     icon: shield,
     title: "3 Months Trial Period",
-    content:
-      "100% Money back garantee, if you're not satisfied after 3 months of using SiGo.",
+    content: "100% Money back garantee, if you're not satisfied.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Easy Upgradable Offers",
-    content: "SiGo grows with you and your needs.",
+    content: "SiGo grows with you, your home and your needs.",
   },
 ];
 
