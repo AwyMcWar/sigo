@@ -25,6 +25,7 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 import hands from "./hands.png";
 import security from "./security.png";
+import solution from "./solution.png";
 export {
   hands,
   security,
@@ -53,4 +54,5 @@ export {
   people01,
   people02,
   people03,
+  solution,
 };
