@@ -1,7 +1,3 @@
-import airbnb from "./airbnb.png";
-import binance from "./binance.png";
-import coinbase from "./coinbase.png";
-import dropbox from "./dropbox.png";
 import logo from "./LogoSiGo.png";
 import quotes from "./quotes.svg";
 import robot from "./Robot and secure.jpg";
@@ -28,10 +24,6 @@ import funcctionality from "./functionality.png";
 export {
   hands,
   security,
-  airbnb,
-  binance,
-  coinbase,
-  dropbox,
   logo,
   quotes,
   robot,
