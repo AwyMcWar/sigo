@@ -5,7 +5,7 @@ import CallToAction from "./CallToAction";
 import FeedbackCard from "./FeedbackCard";
 import Functionality from "./Functionality";
 import Hero from "./Hero";
-import OurTeam from "./OurTeam";
+
 import Solutions from "./Solutions";
 import Stats from "./Stats";
 import Testimonials from "./Testimonials";
@@ -19,7 +19,6 @@ export {
   FeedbackCard,
   Functionality,
   Hero,
-  OurTeam,
   Solutions,
   Stats,
   Testimonials,

@@ -1,9 +1,3 @@
-import airbnb from "./airbnb.png";
-import bill from "./bill.png";
-import binance from "./binance.png";
-import card from "./card.png";
-import coinbase from "./coinbase.png";
-import dropbox from "./dropbox.png";
 import logo from "./LogoSiGo.png";
 import quotes from "./quotes.svg";
 import robot from "./Robot and secure.jpg";
@@ -26,15 +20,10 @@ import people03 from "./people03.png";
 import hands from "./hands.png";
 import security from "./security.png";
 import solution from "./solution.png";
+import funcctionality from "./functionality.png";
 export {
   hands,
   security,
-  airbnb,
-  bill,
-  binance,
-  card,
-  coinbase,
-  dropbox,
   logo,
   quotes,
   robot,
@@ -55,4 +44,5 @@ export {
   people02,
   people03,
   solution,
+  funcctionality,
 };
