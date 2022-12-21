@@ -37,9 +37,7 @@ const App = () => (
         <Business />
         <Solutions />
         <Functionality />
-
         <Testimonials />
-
         <CallToAction />
         <Footer />
       </div>
