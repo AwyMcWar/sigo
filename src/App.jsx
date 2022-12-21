@@ -8,7 +8,6 @@ import {
   CallToAction,
   FeedbackCard,
   Functionality,
-  OurTeam,
   Solutions,
   Stats,
   Testimonials,
@@ -38,12 +37,11 @@ const App = () => (
         <Business />
         <Solutions />
         <Functionality />
-        <FeedbackCard />
+
         <Testimonials />
-        <OurTeam />
+
         <CallToAction />
         <Footer />
-        <Button />
       </div>
     </div>
   </div>

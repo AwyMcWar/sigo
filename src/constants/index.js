@@ -20,18 +20,16 @@ export const navLinks = [
     id: "home",
     title: "Home",
   },
+
   {
-    id: "features",
-    title: "Features",
+    id: "solutions",
+    title: "Solutions",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "deals",
+    title: "Deals",
   },
-  {
-    id: "clients",
-    title: "Clients",
-  },
+  { id: "members", title: "Members" },
 ];
 
 export const features = [
@@ -58,26 +56,25 @@ export const features = [
 export const feedback = [
   {
     id: "feedback-1",
-    content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+    content: "SiGo helps me stay organized and brings peace in my life.",
+    name: "Lusy Hermann",
+    title: "Member since May, 2020",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "As an adventurer, SiGo makes sure that my home is safe also when I'm on a trip.",
+    name: "Mark Johnson",
+    title: "Member since Juny 2020",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "SiGo was recommended to me by a friend and I'm glad that I'm a part of this big family.",
+    name: "Alex Grunth",
+    title: "Member since January, 2021",
     img: people03,
   },
 ];
