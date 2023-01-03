@@ -6,3 +6,9 @@ ________________________________________________________________________________
 TECH: React and Tailwind
 
 
+![Sigo1F](https://user-images.githubusercontent.com/116014222/210396589-97aa871e-887d-4e19-9a6f-641d68012460.png)
+
+
+
+
+![Sigo2F](https://user-images.githubusercontent.com/116014222/210396966-314135dc-5941-4afa-a34d-e12713b1cdea.png)
