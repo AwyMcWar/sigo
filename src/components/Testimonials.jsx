@@ -13,12 +13,6 @@ const Testimonials = () => (
         What people are <br className="sm:block hidden" />
         saying about us
       </h1>
-      <div className="w-full md:mt-0 mt-6">
-        <p className={`${styles.paragraph} lext-left max-w-[450px] mt-8`}>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit, ea
-          asperiores veniam dignissimos.
-        </p>
-      </div>
     </div>
     <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]">
       {feedback.map((card) => (

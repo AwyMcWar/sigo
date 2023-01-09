@@ -10,10 +10,8 @@ const Functionality = () => (
         easy steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[480px] mt-5`}>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis
-        sapiente sunt minima aperiam! Totam optio sunt quas est repellendus
-        error mollitia pariatur quis enim nulla nam deserunt expedita officiis
-        ex, fuga odit in.{" "}
+        You can build a personalized smart home that helps you with any haushold
+        task.{" "}
       </p>
       <Button styles="mt-10" />
     </div>

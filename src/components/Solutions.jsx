@@ -20,10 +20,10 @@ const Solutions = () => (
         home devices.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident
-        atque, unde dolor debitis nam eum maxime, voluptatem voluptate dicta
-        nesciunt, dignissimos explicabo laboriosam? Ullam fugiat inventore qui
-        non explicabo voluptas!
+        You can make your home a little more livable—and a lot more automated—by
+        adding appliances and devices you can control from anywhere. You can
+        control over 50,000 smart home devices including TVs, lights,
+        appliances, plugs, thermostats, and more.
       </p>
       <div className="flex flex-row flex-wram sm:mt-10 mt-6">
         <img
